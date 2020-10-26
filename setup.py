@@ -12,7 +12,7 @@ with open('LICENSE') as f:
     lic = f.read()
 
 setup(
-    name='sample',
+    name='main_app',
     version='0.1.0',
     description='Sample package for Python-Guide.org',
     long_description=readme,

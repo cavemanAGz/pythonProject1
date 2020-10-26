@@ -1,3 +1,4 @@
 graphics.py
 nose
 sphinx
+setuptools~=50.3.2
